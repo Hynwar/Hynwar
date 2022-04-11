@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Pengyle/Pengyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hiba Anwar! 👋
 
-Here are some ideas to get you started:
+👩‍💻 I'm currently working on a couple of practice projects to improve my web skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I'm currently learning frontend development with React.js
+
+📫 How to reach me : Send an email to hiba2anwar@gmail.com
+
+⚡️ Fun fact: I also enjoy working on game mechanics in Unity Engine
+
+
+## 🛠 Skills
+ - HTML & CSS
+ - JavaScript
+ - C#
+ - Unity Engine
+ - Git and GitHub
+
