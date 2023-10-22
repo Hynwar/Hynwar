@@ -39,7 +39,7 @@
       <h2 align='center'>Little Lemon</h2>
       <div align='center'>  
         <a href='https://hynwar.github.io/little-lemon/'>
-          <img src='./Little-lemon.png' alt='Little Lemon'/>
+          <img src='./Little-lemon.png' alt='Little Lemon' height="300"/>
         </a>
         <br>
         <br>
@@ -58,7 +58,7 @@
       <h2 align='center'>Dice Game</h2>
       <div align='center'>  
         <a href='https://hynwar.github.io/pig-dice-game/'>
-          <img src='./Dice-game.png' alt='Dice Game'/>
+          <img src='./Dice-game.png' alt='Dice Game' height="300"/>
         </a>
         <br>
         <br>
@@ -79,7 +79,7 @@
       <h2 align='center'>Omni Food</h2>
       <div align='center'>  
         <a href='https://hynwar.github.io/omni-food/'>
-          <img src='./Omni-food.png' alt='Omni Food'/>
+          <img src='./Omni-food.png' alt='Omni Food' height="300"/>
         </a>
         <br>
         <br>
@@ -98,7 +98,7 @@
       <h2 align='center'>Web Design</h2>
       <div align='center'>  
         <a href='https://hynwar.github.io/web-design/'>
-          <img src='./Dice-game.png' alt='Web Design'/>
+          <img src='./web-design.png' alt='Web Design' height="300"/>
         </a>
         <br>
         <br>
