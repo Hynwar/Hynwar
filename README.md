@@ -1,18 +1,11 @@
 ![Banner](Banner.png)
 
-<h1 align="center">Hey there, fellow digital explorer!👋 Welcome to my domain</h1>
+<h1 align="center">Greetings, fellow digital explorer!👋</h1>
 <br>
 <p align="center">
-  I'm <strong>Hiba Anwar</strong>, your friendly neighborhood coder 👩‍💻 with an insatiable curiosity 🐱, a coffee mug that never runs dry ☕, and a passion for sparking innovation ✨. 
-  As an electrical engineering student 🛠️ and a coding enthusiast, I've been exploring the endless 💫 possibilities of the digital 💻 and analog ⚙️ realm. 
+  I'm <strong>Hiba Anwar</strong>, your friendly neighborhood developer with an insatiable curiosity, a coffee mug that never runs dry, and a passion for sparking innovation ✨. 
+  I am a passionate Front-End Developer & UI/UX Designer with a love for crafting engaging user experiences. My background in electrical engineering fuels my creativity and allows me to approach problems from a unique perspective.
   <br>
-  <br>
-  My code is my canvas 🎨, and I specialize in weaving the tapestry 🧵 of the web and crafting experiences through the magic of code 🪄 and design 🖌️. 
-  Beyond the screen, you might catch me tinkering with circuits 🔌 or playing around with microcontrollers, because innovation knows no bounds – whether in lines of code or currents of electricity ⚡. 
-  <br>
-  <br>
-  Let's embark on this electrifying 🌩️ coding journey together, fueled ⛽ by endless curiosity and the magic of coffee 🪄☕. 
- <br>
 </p>
 
 <div align='center'>
